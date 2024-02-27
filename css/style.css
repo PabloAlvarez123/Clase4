@@ -1,0 +1,31 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 30px;
+}
+body{
+    background-color: darkgoldenrod;
+}
+h1{
+    padding: 15px;
+    border: 10px;
+    border-style: dashed;
+    border-color: brown;
+    color: darkred;
+    text-align: center;
+    text-decoration: overline;
+    text-transform: uppercase;
+}
+p{
+    color: midnightblue;
+    text-align: justify;
+    border-radius: 30px;
+    border-style: solid;
+    padding: 10px;
+    border-color: coral;
+    background-color: darkgrey;
+}
+img{
+    width: 37%;
+    border-radius: 1000px;
+    
+}
